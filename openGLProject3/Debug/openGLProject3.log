@@ -1,0 +1,30 @@
+﻿  glad.c
+  k.cpp
+  main.cpp
+e:\vswork\repos\openglproject3\openglproject3\shader.h(65): warning C4101: “infoLog”: 未引用的局部变量
+e:\vswork\repos\openglproject3\openglproject3\shader.h(64): warning C4101: “success”: 未引用的局部变量
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(313): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(325): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(337): warning C4305: “参数”: 从“double”到“const T”截断
+          with
+          [
+              T=float
+          ]
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(493): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(675): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(676): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(680): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(681): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(683): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(684): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+e:\vswork\repos\openglproject3\openglproject3\main.cpp(693): warning C4244: “参数”: 从“double”转换到“float”，可能丢失数据
+  正在生成代码...
+  openGLProject3.vcxproj -> E:\VSWork\repos\openGLProject3\Debug\openGLProject3.exe
